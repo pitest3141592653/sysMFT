@@ -8,6 +8,7 @@ Usage:
 
 2. Parse the output file
 > pip install mft
+>
 > python3 tprinter.py
 
 Credits to:
